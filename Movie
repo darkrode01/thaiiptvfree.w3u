@@ -15,6 +15,14 @@
 "playInNatPlayer":"true"},
 
 {
+"name":"HBO test",
+"image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", 
+"url":"https://raw.githubusercontent.com/darkrode01/channel/refs/heads/main/hbo.m3u8",
+"referer":"https://d11co.com/",
+"info":"Server thaiiptvfree",
+"playInNatPlayer":"true"},
+
+{
 "name":"HBO SIGNATURE",
 "image":"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png", 
 "url":"http://no-proxy.thaiiptvfree.download/live/hbo-signature/index.m3u8",
